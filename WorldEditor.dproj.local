@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.790,D:\Work\Projects\Games\Devil Hunter - MapEditor\DHMapEditor.dproj=D:\Work\Engines\DGLE 2 Engine\Template Game\Game.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.348,D:\Work\Projects\Games\Devil Hunter - MapEditor\src\GUI\GUI.Button.pas=D:\Work\Projects\Games\Devil Hunter - MapEditor\src\GUI\UI.RadioButton.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.753,D:\Work\Projects\Games\Devil Hunter - MapEditor\Unit1.pas=D:\Work\Projects\Games\Devil Hunter - MapEditor\src\GUI.Button.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.602,=D:\Work\Projects\Games\Devil Hunter - MapEditor\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.870,D:\Work\Projects\Games\Devil Hunter - MapEditor\Unit1.pas=D:\Work\Projects\Games\Devil Hunter - MapEditor\src\Main.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.118,D:\Work\Projects\Games\Devil Hunter - MapEditor VCL\src\RMForm.pas=D:\Work\Projects\Games\Devil Hunter - MapEditor VCL\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.748,=D:\Work\Projects\Games\Devil Hunter - MapEditor VCL\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.297,D:\Work\Projects\Games\Devil Hunter - MapEditor\src\GUI\UI.RadioButton.pas=D:\Work\Projects\Games\Devil Hunter - MapEditor\src\UI\UI.RadioButton.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.428,D:\Work\Projects\Games\Devil Hunter - MapEditor VCL\OKCANCL2.pas=D:\Work\Projects\Games\Devil Hunter - MapEditor VCL\NewMapForm.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.562,=D:\Work\Projects\Games\Devil Hunter - MapEditor VCL\OKCANCL2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.872,=D:\Work\Projects\Games\Devil Hunter - MapEditor\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.601,D:\Work\Projects\Games\Devil Hunter - MapEditor\src\UI\UI.RadioButton.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.031,D:\Work\Projects\Games\Devil Hunter - MapEditor VCL\src\PackList.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.dproj,D:\Work\Projects\Games\Snake\Game.dproj=D:\Work\Engines\DGLE 2 Engine\Template Game\Game.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.029,D:\Work\Projects\Games\Devil Hunter - MapEditor VCL\src\ObjectList.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.dproj,D:\Work\Engines\DGLE 2 Engine\Template\Engine.dproj=D:\Work\Projects\Games\Snake\Game.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.984,=D:\Work\Projects\Games\Devil Hunter - MapEditor\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.737,D:\Work\Projects\Games\Devil Hunter - MapEditor\Unit1.pas=D:\Work\Projects\Games\Devil Hunter - MapEditor\src\ObjectList.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.533,=D:\Work\Projects\Games\Devil Hunter - MapEditor\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.619,=D:\Work\Projects\Games\Devil Hunter - MapEditor VCL\OKCNHLP1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.106,=D:\Work\Projects\Games\Devil Hunter - MapEditor\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.453,D:\Work\Projects\Games\Devil Hunter - MapEditor VCL\Unit1.dfm=D:\Work\Projects\Games\Devil Hunter - MapEditor VCL\src\NMForm.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.016,D:\Work\Projects\Games\Devil Hunter - MapEditor VCL\src\Form.pas=D:\Work\Projects\Games\Devil Hunter - MapEditor VCL\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.627,D:\Work\Projects\Games\Devil Hunter - MapEditor VCL\DHMapEditor.dproj=D:\Work\Projects\Games\Devil Hunter - MapEditor VCL\DHMapEditor.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.118,D:\Work\Projects\Games\Devil Hunter - MapEditor VCL\src\RMForm.dfm=D:\Work\Projects\Games\Devil Hunter - MapEditor VCL\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.061,D:\Work\Projects\Games\Devil Hunter - MapEditor VCL\DHMapEditor.dproj=D:\Work\Projects\Games\Devil Hunter - MapEditor VCL\DHMapEditor.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.971,D:\Work\Projects\Games\Devil Hunter - MapEditor VCL\src\FolderDialog.pas=D:\Work\Projects\Games\Devil Hunter - MapEditor VCL\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.016,D:\Work\Projects\Games\Devil Hunter - MapEditor VCL\src\Form.dfm=D:\Work\Projects\Games\Devil Hunter - MapEditor VCL\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.428,D:\Work\Projects\Games\Devil Hunter - MapEditor VCL\OKCANCL2.dfm=D:\Work\Projects\Games\Devil Hunter - MapEditor VCL\NewMapForm.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.316,D:\Work\Projects\Games\Devil Hunter - MapEditor\src\PackList.pas=D:\Work\Projects\Games\Devil Hunter - MapEditor\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.475,=d:\programs\embarcadero\rad studio\9.0\ObjRepos\EN\DelphiWin32\OKCANCL1.PAS</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.356,D:\Work\Projects\Games\Devil Hunter - MapEditor\src\GUI.pas=D:\Work\Projects\Games\Devil Hunter - MapEditor\src\UI.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.654,=D:\Work\Projects\Games\Devil Hunter - MapEditor VCL\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.612,=D:\Work\Projects\Games\Devil Hunter - MapEditor VCL\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.453,D:\Work\Projects\Games\Devil Hunter - MapEditor VCL\Unit1.pas=D:\Work\Projects\Games\Devil Hunter - MapEditor VCL\src\NMForm.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.531,=D:\Work\Projects\Games\Devil Hunter - MapEditor VCL\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.516,=D:\Work\Projects\Games\Devil Hunter - MapEditor VCL\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.pas,D:\Work\Projects\Games\Snake\Unit1.pas=D:\Work\Projects\Games\Snake\SubSystems.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.pas,D:\Work\Projects\Games\Snake\Unit1.pas=D:\Work\Projects\Games\Snake\Resources.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.pas,D:\Work\Projects\Games\Snake\Unit1.pas=D:\Work\Projects\Games\Snake\Settings.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.378,=D:\Work\Projects\Games\Devil Hunter - MapEditor VCL\Unit1.pas</Transaction>
+    <Transaction>2012.08.21 00:55:55.040,D:\Work\Projects\Games\Devil Hunter - MapEditor VCL\WorldEditor.dproj=D:\Work\Projects\Games\Devil Hunter - MapEditor VCL\DHMapEditor.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
